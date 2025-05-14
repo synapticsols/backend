@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.session
+*.json
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+
+# FAISS index
+index.faiss
+index.pkl
+
+# Others
+*.log

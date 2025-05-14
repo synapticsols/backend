@@ -1,0 +1,2501 @@
+Extracted Text:
+
+================================================================================================================================================================================================================================================================
+
+$1m rasva Beyit
+
+INSTRUCTION
+
+anti-UAV
+
+(Small Special Task Force)
+
+Kiev, 2024
+
+
+content
+
+1. Introduction
+2. Anti-UAV crew.
+3. Technical support
+3.1. Means of detection of UAVs ....
+3.2. - UAV countermeasures. .
+3.3. Power supplies ... . . .
+3.4. - Means of communication
+3.5. Orientation tools
+3.6. - Checking the equipment .... . . . . . . . . . . . . 1.L+++.
+3.6.1. Verification of the means of detection of UAVs.
+3.6.2. Verification of UAV countermeasures
+4. Security measures
+5. Operational procedures
+5.1. Preparatory part
+1. Getting the job done
+2. Mission planning
+3. Preparation and verification of technical equipment ...
+4. Selection and arrangement of positions
+5
+6.
+
+Cloaking
+Communications organization
+Performing the task
+5. 2.1. UAV detection
+5.2.1.1. Signal level and distance to the UAV. . .
+5.2.1.2. Definition of UAV direction. . . . . . . . . .
+
+5.2. 1.3. Additional features for the operator of detection of UAVs . . . ... 20.
+5. 2.2. Countering UAVs ... . . . . . . . Line 21.
+5.2.2.1. Work of the operator of countermeasures UAV in the infantry
+units. . .
+
+5.3. Leaving position
+6. Annex 1. The procedure for working with a drone detector based on the spectrum analyzer "NPUZA"
+Both with the firmware version U3.2.0. . . . . . . . ...
+24.
+6.1. Description
+6.2. - Rules of use
+6.3. Setting up
+6.4. - Technical specifications
+6.5. Notes on the 5.8 GHz range.
+6.6. - Controls of the spectrum analyzer "tuza va".
+6.7. Power on, power control and charging
+6.7.1. Inclusion
+6.7.2. Nutrition control
+6.7.3. Charging.
+6.8. - Mode selection. . .
+6.9. Display elements
+6.10. Scaling function
+6.10.1. Method 1 - Manual scaling
+6.10.2. Method 2 – Automatic scaling of the strongest signal
+6.11. Frequency search. . .
+6.12. Screen menu.
+6.13. The work of a drone detector with a remote antenna. . .
+6.14. Sound and light alarm systems ... . . . . . . . .
+
+6.14.1. Sound alarm system
+6.14.2. Light signalling of the Ini line
+6.14.3. Configure exceptions for alarms ("special" ranges). . .
+
+7. Annex 2. Examples of patterns of emission spectra of signals of some UAVs .....41
+8. Annex 3. Examples of patterns of EW signal radiation spectra... . . . . . . . . . Lenin 48
+
+
+
+
+1. Introduction
+
+Means of detection and counteraction of UAVs play an important role in ensuring
+security of advanced units of the Armed Forces, as well as artillery, equipment and
+warehouses. In fact, the detection of UAVs is a function of RER (radio-electronic intelligence), and
+UAV counteraction is a function of electronic warfare (EW). Because of scarcity.
+special military systems RER / EW, fighters must master the work with small-scale
+means of individual use.
+
+Use UAV countermeasures according to plan and
+procedures designed in advance to minimize risks to personnel and
+other facilities.
+
+It is important to remember that the use of portable UAV countermeasures in
+conditions of hostilities can be dangerous and must be conducted only by experienced and
+Professional specialists in compliance with all safety requirements.
+
+Always follow the manufacturer's instructions when using technical
+detection and countermeasures of the UAV and, if necessary, contact
+Helping professionals.
+
+2. Anti-UAV calculation
+
+$ Some means of countering UAVs have much less
+efficiency without the simultaneous use of UAV detection tools. Besides,
+use of UAV countermeasures without proper training and coordination,
+It could hurt friendly units.
+
+The calculation of anti-UAVs should include at least:
+
+1. Operator of UAV detection tools (commander of calculation) - work with technical
+UAV detection, coordination of calculation, coordination with
+neighboring units and base, communications.
+
+2. Operator of UAV countermeasures - work with technical means
+UAV countermeasures.
+
+The recommended composition of the calculation of anti-UAV:
+
+1. Operator of UAV detection tools (commander of calculation) - work with technical
+UAV detection, coordination of calculation, coordination with
+neighboring units and base, communications.
+
+2. Operator of UAV countermeasures - work with technical means
+UAV countermeasures.
+
+3. Support group (2 fighters) - assistance in arrangement of positions, maintenance
+surveillance, security and fire cover.
+
+4. The driver (may be part of the support group).
+
+All fighters of anti-UAV calculation must know the technical means and be able to
+
+Use them for the possibility of interchange.
+
+In case of state restrictions, the calculation of the anti-UAV can consist of one fighter,
+who performs all activities independently and must have the appropriate skills
+Work with all the equipment.
+
+3. Technical support
+Calculation of anti-UAV uses the following technical means:
+UAV detection equipment.
+UAV countermeasures.
+Communications.
+Power supplies.
+Orienteering equipment.
+
+willow
+
+3.1. UAV detection tools
+
+
+5
+
+Calculation of anti-UAV should use all available means and methods
+detection of air targets in the area of responsibility, such as:
+
+Electronic radio frequency drone detectors.
+
+Optical observation devices (binoculars, visual tubes, PNB, etc.).
+Thermal imaging surveillance devices (monoculars, sights, etc.).
+
+Auditory control (sense organs, active headphones, special microphones, etc.).
+Information from other sources, such as RER, air defense and neighboring
+units.
+
+
+6
+For long-term and early detection of UAVs, electronic
+drone detectors (drone detectors). Some modern industrial
+Drone detectors independently (automatically) determine the manufacturer and type of UAV and output
+its name on the display, in addition, they automatically report the detection
+UAVs using sound and light signals. Such devices may be stationary,
+They are portable and have a fairly high cost.
+
+Portable industrial drone detectors for industrial use
+
+Due to the lack of available portable industrial drone detectors, we
+homemade devices (drone detectors) based on the analyzer are produced
+It's called "#Oga" or "ZA6." The spectrum analyzer "AtuZA ha" has a special
+adapted firmware "REP UAV" for convenient and understandable use.
+
+windows
+
+Ovonaise,
+
+Spectrum Analyzer "Npuza Oga" with specialty
+
+All drone detectors, both industrial and home-made, can work with
+directional antennas to search for directions to the UAV or with non-directional
+360 degree circular monitoring.
+
+
+7
+
+Ishischadda:
+
+Non-directional single-band pin antennas
+(Select antennas with hinge attachment)
+
+Iowa
+
+Non-directional all-band pin antennas omnidirectional
+
+Whoa,
+
+Directed all-band antennas (logoperiodic "triangle" and horn)
+"vivaldi"
+
+2%
+
+Strictly directed antennas "wave channel" ("uar1"), pictured for the bands 2.4/5.8
+
+
+Hz
+
+
+9.
+3.2. UAV countermeasures
+
+The counteraction of the UAV is to muffle (suppress) the radio frequencies of the UAV (more precisely,
+frequency bands that use UAVs. For this purpose, powerful transmitters with
+appropriate antennas. UAV countermeasures are stationary,
+Portable and mobile. Due to the different types of antennas, they are
+circular action (the so-called "dome electronic warfare") and directed action (the so-called "dome electronic warfare")
+"Anti-drone gun." In turn, anti-drone guns are also different.
+design and appearance - long "space blasters" have a very narrow angle
+radiation (about 10 degrees) and require constant and careful "aiming", flat
+"Shovel/iron/pan/cloth-like" devices give a wider radiation angle (30-60)
+degrees) and they can be "directed". In turn, emitters for different
+frequencies also have different angles of radiation (the lower the frequency, the greater the angle of radiation),
+The following are approximate values for flat wide-angle anti-drone guns:
+
+1.2/1.5 GHz - 60°=120°
+. 24 GHz - 30°-=40°
+5.2/5.8 GHz - 20°-30°
+The total power of the portable dome EW is approximately 100-500 W,
+Anti-drone rifles - from 10 watts to 150 watts. Dome electronic warfare and anti-drone guns can
+have one to nine jamming channels, some models have a built-in detector
+drones. In some models of anti-drone guns, for more effective jamming
+certain diarazone, two blocks of interference are installed, which work in different
+Polarization, in order to
+jamming was effective at any position of the UAV relative to the antennas of the anti-drone gun.
+
+For the ability to work in different modes and for different tasks, devices
+UAVs usually have separate switches for each frequency
+range (channel jamming) - this saves battery power and reduces the risk of being
+Wearable.
+
+Effective range of portable dome EW (which work)
+constantly and require stable food) is 300-2000 meters. Most anti-
+drone guns are effective at a distance of 1500-2500 meters on control signals and
+video transmission and up to 1500 meters on navigation signals. In the case of urban employment
+conditions, the range of effective UAV counteraction is sharply reduced due to
+obstacles in the form of urban infrastructure. Even tree branches extinguish radiation - than
+The higher the frequency, the more such interference is affected.
+
+Examples of portable dome electronic warfare with circular and sector (panel) antennas
+
+hmm
+
+Examples of narrowly targeted anti-drone guns
+
+
+
+10.
+Examples of wide-directional anti-drone guns
+
+
+11.
+
+Control frequencies, video transmission frequencies and system frequencies are usually jammed.
+Satellite navigation (CMNo$5 - C1) both! In turn,
+Satellite navigation jamming provides for blocking the reception of CNo55 signals
+known operators because the blocking of one or more operators C©MNo5$
+It may not be effective.
+
+A list of frequency bands that some UAVs use and that are needed
+jammed, given in the table (if given one frequency is the central frequency of the band)
+
+frequency.
+Control, Telemetry, Video, MHz
+Model UAV MHz (band, MHz (band, (band, navigation, MHz))
+MHz) MHz
+Hall 421 433-435 863-873 (0.21) 1100-1250 (5) | 1561
+Lancet 902-928 (0.21) 2160-2450 (5) | 1575
+Merlin 2520-2550 (5) 1596-1608
+Orlan 200-450 863-928 (band | 1080-1300 (10, | CRPA Comet)
+2, 4; signal 0.1, 14)
+0.2, 0.25, 0.4)
+Orlan M 960-1050 (2.4) | 2300-2700 (2, | CRPA Comet)
+4, 8, 16, 32)
+Supercamps 837-887 (5) 976.5=1222.5 (8)| 1572.42
+(10 bands of 150 kHz, 860-917 (5) 1296-1302 (8) 575.42
+general band 5 970-975 (5) 1365-1375 (8) 602
+MHz 1004-1020 (5) 1383-1390 (8)
+Supercams 1015-1120 (4+4) | 976.5-=1222.5 (8) | 1572.42
+(2 4 MHz bands) 1124-1132 (4+4) | 1296-1302 (8) 575.42
+1110-1387 (4+4) | 1383-1400 (8) 602
+Eleron 860-1020 (5) | 860-1020 (5) 976.5=1222.5 572.42
+(10 lanes at 150 kHz, 575.42
+5 MHz common band) 602
+Orion 890-920 (1) 572.42
+575.42
+602
+grenade 915-928 (12.5) 572.42
+575.42
+602
+Tachyon 915-920 (5) 572.42
+575.42
+602
+ERU 400 -450 1080-1320 (26)
+700-1050 2400-2500 (26)
+868 (26) - Standard frequency | 4900 (26)
+915 (26) - Standard frequency | 5700-5900 (26)
+1100-1300
+2400-2585
+ol 2400-2585 (20) 500 (1550-1620)
+5150-5300 (20)
+5725-5850 (20)
+Outel 2400-2585 (20, 40) 500 (1550-1620)
+5150-5300 (20, 40)
+5725-5850 (20, 40)
+A] EUO MAX 4T | 850-940 (20, 40) 200 (1170-1260)
+2400-2483 (20, 40) 500 (1550-1620)
+5150-5250 (20, 40)
+5725-5850 (20, 40)
+Satellite 200 (1170-1260)
+
+naval
+range (SMNo5$G2)
+
+227.6 +/-12
+
+
+
+12.
+
+Satellite 1500 (1550-1620)
+navigation 1575.42 +/-12
+civilian
+range (SMNo5$G1)
+
+
+
+13
+
+©P$15 @aSheo E5B RZ
+Sashoo Eba at 5 in 2.
+19433 6 ©P$12C in0$B11 Sasheo E1 GLONASS E1
+
+1207.14 +
+1176.45 +10.23 MHz 2.046 MHz
+
+1561.098 +2,046 MHz 1575.42 +
+
+1227.6 +1.023 MHz 1.023 MHz
+
+1601,71875 +3,91175 MHz
+
+you
+1207.14 +10.23 MHz 1575.42 +2.046 MHz
+
+Duapazon 1.2 GHz | Duapazon 1.5 GHz ]
+
+Frequency ranges of satellite navigation system operators (©#55$)
+
+3.3. Power supplies
+In the field, there is often no access to electricity, so
+
+ensuring long-term and uninterrupted operation of UAV countermeasures,
+Additional sources of food are needed. Such sources may be:
+
+X Portable generators 220 V.
+
+. 12V car outlets.
+
+* Charging stations.
+
+* Solar panels.
+
+"Inverters."
+
+* Additional battery packs.
+
+"Poverbanks."
+
+$ Please note that if there is an additional external battery
+anti-drone gun unit, it needs to be connected to the power connector / charge over?
+start of work. If an additional external battery is connected when built-in
+The battery is discharged, the capacity of the additional external battery will be
+used not only for the operation of the device, but also for the charge of the built-in battery,
+in this case, the recoil current of the additional external battery may become excessive
+large, which can lead to damage to the power connector and wires, and
+overheating of both the built-in and additional external battery.
+
+Some models of anti-drone guns have removable batteries, so
+They replace the built-in battery with an additional fresh one.
+It's done with radio stations.
+
+3.4. Means of communication
+
+Communication is provided by the use of personal radio stations. Calculation
+
+The anti-UAV uses communications for the following purposes:
+
+1. Communication with neighbouring units to receive and/or transmit
+Reports of threats from the sky.
+
+2. Communication with neighboring units to receive launch reports
+their UAVs.
+
+3. Interaction within the calculation and communication with the base with respect to displacements
+positions, transportation of equipment, delivery of batteries and the like.
+
+
+14.
+3.5. Orientation tools
+
+The key to successful completion of any task is the availability of funds.
+Orientation and ability to use them.
+
+Each fighter calculation anti-UAV must have a compass and a smartphone with installed
+mapping software (Delta, Krapiva, Milchat, Armor, Combat,
+Alpine Quest, etc.).
+
+Special software allows preliminary exploration
+terrain before reaching the position, plan the routes of calculation, place
+collection and shelter of vehicles, place or load the necessary facilities and
+markings on the map.
+
+3.6. Equipment inspection
+
+Having a certain equipment, you need to know its technical characteristics.
+And, more importantly, its real potential.
+
+To detect UAVs, you need to know the following:
+
+Distance (distance and/or height) of detection of certain types of UAV
+A drone detector.
+
+Distance (distance and/or height) of identification of certain types
+A drone detector.
+
+Distance and/or height of detection of certain types of UAV
+means of acoustic observation (sense organs, active headphones,
+Special directional microphones, microphone grilles, etc.).
+
+Distance (distance and/or height) of identification of certain types
+UAVs by means of acoustic observation (sense organs, active ones)
+headphones, special directional microphones, microphone grilles and
+Etc.
+
+Distance and/or height of detection of certain types of UAV
+means of optical observation (binoculars, visual tubes, etc.).
+
+. Distance (distance and/or height) of identification of certain types
+UAV means of optical observation (binoculars, visual tubes, etc.).
+
+Distance and/or height of detection of certain types of UAV
+means of thermal imaging surveillance (monoculars, sights, etc.).
+
+. Distance (distance and/or height) of identification of certain types
+UAV means of thermal imaging (monoculars, sights, etc.).
+
+® Accuracy of determining the direction of certain types of UAVs
+
+Different ways. To counter the UAV is necessary
+know the following:
+
+? Maximum distance (distance and/or height) of effective jamming
+certain types of UAVs.
+
+x Operating time of countermeasures UAV on the built-in battery with
+different loads (with different number of jamming channels included).
+
+? Time of operation of countermeasures UAVs with connected
+additional external battery with different loads (with different loads)
+The number of jamming channels included).
+
+® Operation time of means of countering the UAV before the appearance of tangible heating
+equipment.
+
+Influence of radiation of an anti-drone gun or "dome" of electronic electronic warfare
+devices at different distances and directions relative to equipment
+UAV countermeasures.
+
+Appropriately positioned equipment for inspection
+test participants (UAV, UAV operator (control panel), operator of funds
+UAV detection, UAV countermeasures operator, observer(s)
+
+
+15.
+3.6.1. Verification of UAV detection tools
+Option 1.
+
+((< 5 >) [C |)
+
+UAV
+UAV operator Operator
+3000-5,000 m
+4 detections
+Standard verification of BIL detection devices
+UAV
+
+r)
+2)
+
+(3)
+
+(4)
+(5)
+
+(6)
+
+The operator of UAV detection devices is located at a distance of 3000-5000
+Meters from the UAV operator and communicates with him via radio.
+
+UAV operator launches UAV at an altitude of 100 meters and sends it sideways
+location of the operator of the detection means. Between the UAV and the UAV operator
+There shall be no obstacles in the form of hills and/or vegetation. The UAV should
+Be in line of sight of the UAV operator.
+
+The operator of UAV detection devices turns on its device and scans
+frequency range (frequency ranges) on which the UAV operates and
+Record the presence or absence of signals. Optimal selection
+The direction and polarization of the antenna.
+
+The UAV operator periodically reports by radio the distance from the UAV to itself.
+During the approach of the UAV, the UAV detection device should appear and
+gradually increase the signal from the UAV.
+
+After confirmation by the operator of the means of detection of BIL on receipt
+stable signal and UAV identification capabilities, UAV operator
+Returns the UAV to its takeoff point.
+
+Repeat the procedure for different UAV height values.
+
+This check is performed with all available UAVs - as a quadcopter type,
+It's a plane type. Maximum detection distance and/or height
+identification of certain types of BILs are recorded for the test vehicle
+UAV detection.
+
+In the same way, the detection range of different types is checked and
+UAV models with acoustic, optical and thermal imaging means of observation.
+
+
+16
+Option 2.
+
+UAV operator 4000-100 m
+
+and
+
+Operator--
+The Observer's resources
+Detection Additional verification of UAV detection tools
+
+1) The operator of UAV detection devices is located together with the operator of the UAV.
+
+2) The operator of the UAV sets the height of the UAV home 100 meters and
+sets the mode of returning home when the control signal is lost, starts
+The UAV is at an altitude of 100 meters and sends it to a distance of 4000 meters from itself.
+Between the UAV and the UAV operator should not be obstacles in the form of hills
+and/or vegetation. UAV must be in the line of sight of the operator
+UAV.
+
+(3) The operator of the UAV turns off its remote control, while the Bila begins
+Move to takeoff point.
+
+(4) Operator of detection tools BIL turns on its device and scans
+frequency range (frequency ranges) on which the UAV operates and
+Record the presence or absence of signals. Optimal selection
+The direction and polarization of the antenna.
+
+(5) The observer(s) shall periodically radio the position of the UAV
+(distance to operator of UAV detection equipment) according to advance
+the landmarks studied.
+
+(6) During the approach of the UAV, the UAV detection device should appear and
+gradually increase the signal from the UAV.
+
+7) After the UAV returns to the takeoff site, the UAV operator turns on its remote control.
+control and safely land the UAV.
+
+Repeat the procedure for different heights of the UAV home.
+
+This check is performed with all available UAVs - as a quadcopter type,
+
+It's a plane type. Maximum detection distance and/or height
+identification of certain types of BILs are recorded for the test vehicle
+UAV detection.
+
+In the same way, the detection and identification range is checked.
+
+various types and models of UAV acoustic, optical and thermal imaging
+surveillance devices.
+
+
+17.
+
+3.6.2. Verification of UAV countermeasures
+Option 1.
+
+in" =}
+
+? Se
+No.
+
+7,500-2900m ^^ <? ‹ 2500=100m (1)
+ini
+UAV operator UAV Operator
+funds
+counteract
+I'm a UAV.
+
+2)
+
+(3)
+
+(4)
+(5)
+
+(6)
+
+7)
+(8)
+
+(9)
+
+Standard verification of UAV countermeasures
+
+The operator of countermeasures UAV is located at a distance of 3000 meters
+from the UAV operator and communicates with him via radio.
+
+The UAV operator launches the UAV at an altitude of 100-200 meters and sends it to
+500 meters away from you. Between the UAV and the UAV operator should not be
+obstacles in the form of hills and/or vegetation. The UAV must be in
+Direct line of sight of the UAV operator.
+
+Operator of UAV countermeasures includes jamming signals
+Satellite navigation and informs the operator of the UAV.
+
+The UAV operator reports whether the satellites are missing from the UAV.
+
+UAV countermeasures operator turns off signal jamming
+Satellite navigation and informs the operator of the UAV.
+
+Operator of UAV countermeasures includes jamming control signals
+UAV and informs the operator of the UAV.
+
+The UAV operator is reporting whether the UAV control has disappeared.
+
+UAV countermeasures operator turns off signal jamming
+control of the UAV and informs the UAV operator about it.
+
+Paragraphs 2-8 are repeated with increasing distance between the UAV and the operator.
+UAVs, for example, 1000, 1500, 2000, 2500, 2900 meters.
+
+This check is performed with all available UAVs - as a quadcopter type,
+It's a plane type. Maximum distance (distance and/or height)
+jamming certain types of UAVs (separately for navigation signals and for signals)
+control) recorded for the test means of countering the UAV.
+
+
+18.
+
+Option 2.
+
+Operator of BILA Funds Operator
+
+r)
+2)
+
+(3)
+
+(4)
+(5)
+
+(6)
+
+7)
+(8)
+
+(9)
+
+500-2000+m
+
+counteract
+I'm a UAV.
+
+Additional verification of UAV countermeasures
+
+Operator of countermeasures Bila is located in front of the operator Bila
+At a distance of 50-100 meters and communicates with him via radio.
+
+The UAV operator launches the UAV at an altitude of 100-200 meters and sends it to
+distance of 500 meters from the operator of countermeasures UAV. Between UAVs.
+and the operator of the UAV must not be obstacles in the form of hills and / or
+vegetation. The UAV should be in the line of sight of the UAV operator.
+Operator of UAV countermeasures includes jamming signals
+Satellite navigation and informs the operator of the UAV.
+
+The UAV operator reports whether the satellites are missing from the UAV.
+
+UAV countermeasures operator turns off signal jamming
+Satellite navigation and informs the operator of the UAV.
+
+Operator of UAV countermeasures includes jamming control signals
+UAV and informs the operator of the UAV.
+
+The UAV operator is reporting whether the UAV control has disappeared.
+
+UAV countermeasures operator turns off signal jamming
+control of the UAV and informs the UAV operator about it.
+
+Paragraphs 2-8 are repeated with increasing distance between the UAV and the operator.
+UAV countermeasures, for example, 1000, 1500, 2000 meters.
+
+This check is performed with all available UAVs - as a quadcopter type,
+It's a plane type. Maximum distance (distance and/or height)
+jamming certain types of UAVs (separately for navigation signals and for signals)
+control) recorded for the test means of countering the UAV.
+
+
+19.
+4. Security measures
+
+Anti-UAV calculation forced to work in close proximity to the line
+Therefore, you should always adhere to priorities, namely:
+
+Priority #1: Ensuring the safety of fighters - using all available
+personal protective equipment, hidden movement, arrangement of several places of work
+(positions), camouflage, reliable cover for each other, working out approaches / departures and
+That sort of thing.
+
+Priority #2: Accomplishment of the task - competent planning and clear follow-up
+commands and operational procedures.
+
+Priority #3: Preservation of machinery - careful and safe handling
+technical means.
+
+Given the specifics of the work, you should constantly be aware of the dangers that
+
+They are waiting for such a special unit. UAV countermeasures radiate very
+
+a powerful signal that can be seen from many miles away,
+Using UAV countermeasures must adhere to the following
+rules:
+
+Do not direct the switched-on UAV countermeasures device to the antenna
+animals and electronic equipment from a distance of less than 5 meters
+possible harm to health and damage to equipment. For the powerful
+Dome electronic warfare, a dangerous distance can be 10 meters or more.
+
+Do not put on the device counteraction UAV type "pan"
+the front part to the surface and not to lay to the surface - possibly
+damage to electronic circuits.
+
+e Do not work with the UAV countermeasures device from open areas
+From hills and buildings, there is a great risk of being trapped. Work from
+squats or squats, or squats, and
+buildings.
+
+‹ Avoid a critically low battery level of the device
+UAV countermeasures (less than 10%).
+
+? Avoid significant heating of the body and components of the device
+UAV countermeasures.
+
+? Do not have or carry even switched off electronic devices
+detection and counteraction of UAVs near electronic warfare, radar and
+other radiating devices - possibly irreversible damage
+electronic circuits of devices for detection and counteraction of UAVs.
+
+e Do not turn on the UAV countermeasures without the need
+There is an additional risk of being caught. Use devices
+UAV countermeasures only if necessary and only in accordance with
+task - thus you will extend the life of devices and personnel
+anti-UAV calculation.
+
+Work from
+depths!
+
+Danger zone!
+
+
+
+20.
+
+Hazardous radiation zone Minimization of visibility
+UAV countermeasures
+(panel antenna) countermeasures
+
+UAV
+
+
+21.
+5. Operational procedures 5.1. Preparatory part 5.1.1. Getting the job done
+
+The task is performed by the commander of the unit in the state (subordination) of which
+There's an anti-UAV calculation.
+
+5.1.2. Mission planning
+
+The commander of the calculation, having received the BR, carries out the planning of the task and brings
+to all the soldiers and to the commander of the unit.
+
+On smartphones or tablets, a map of the area of the calculation zone is downloaded, where
+location of calculation positions, directions of work, potential goals and
+Location of the enemy and friendly units.
+
+5.1.3. Preparation and verification of technical equipment
+
+Having information about the task, the calculation prepares and checks the technical means,
+which will be used to accomplish the task.
+
+Considering that most of the technical means of calculating anti-UAV
+energy dependent, first of all, the state of the power elements of all
+components, including personal smartphones and tablets.
+
+In case of impossibility to use certain technical means due to
+damage, they are transferred for repair, as reported to the commander of the calculation.
+
+Integrity of technical means as well as condition of transport is checked
+containers, suitcases, backpacks, etc.
+
+5. 1.4. Selection and arrangement of positions
+
+Before being promoted to the position, thorough reconnaissance must be carried out.
+to select a location that will provide maximum coverage of the space in
+Area of responsibility. The calculation should take into account the terrain, the availability of shelters, height and
+visibility of the position, availability of the position for entry and exit of equipment. Needed
+ensure safety when moving to a position to avoid detection
+enemy.
+
+When choosing positions, many factors must be considered, among which -
+capabilities of existing technical means of detection and counteraction of UAVs. This,
+mostly real, not hypothetical, UAV detection distance and distance
+effective suppression of the UAV.
+
+The conditions and circumstances of the choice of positions may differ due to the characteristics of the
+directions or other introductory ones. Accordingly, choosing a position, it is necessary to take into account:
+
+1. Inspection and work sectors.
+
+By what means will you work?
+3. At what altitudes/distances/directions can you find?
+organize counteraction taking into account the terrain, relief, development, vegetation
+etc.
+Where could there be shelling?
+Where there are reliable shelters, where in case you can hide.
+Where to hide / leave equipment and vehicles.
+Ways and sequence of urgent withdrawal in case of unforeseen deterioration
+combat situation.
+
+pi
+
+Setting up positions should take place before any active
+calculation activities in this area. The arrangement of positions provides for the use of
+Or create temporary shelters and disguise them. It is especially important to bear in mind that
+UAV countermeasures equipment can be significantly heated and can be noticeable in
+Thermal imager from a long distance both from the ground and from the air, so it is necessary to take
+measures for thermal shielding of such equipment. Similarly, we need to take care of
+similar to the masking of vehicles, the engine and wheels of which will be warm
+long after the stop, even in winter.
+
+
+22.
+
+
+23.
+
+When working in settlements with multi-storey buildings, it is better to use
+prevailing heights if sufficient range is required. But it should.
+Remember that the dominant heights are an easy and shot target for the enemy.
+Therefore, it is necessary to prepare shelters and escape routes more carefully.
+
+If you need to work from buildings, you need to constantly change your location.
+reduces the risk of being swaddled by radio emission, but you need to be careful when
+moving so that you are not visible visually, besides there is a danger of getting under the
+Numerous debris from shells hitting buildings.
+
+Working in tandem, the UAV detection operator and the UAV countermeasures operator,
+They are located at a distance of at least ten meters on the front from each other. It's
+This is due to two factors: ensuring the survival of the unit during the attack and
+Inability to operate a sensitive drone detector near powerful radiation
+UAV countermeasures.
+
+5. 1.5. Cloaking
+
+When arranging a position, the calculation must take into account the cloaking requirements to
+minimize the possibility of detection by the enemy. It is important to protect against
+observation from the air, for example, using natural shelters, forest belts, houses or
+Awnings, which in turn should not overlap the sectors of work of funds
+UAV countermeasures. It is also necessary to provide a thorough masking of the equipment and
+equipment, using camouflage means, for example, masking nets, leaves,
+snow, branches and so on.
+
+The masking must be prepared and applied in accordance with local
+terms. The calculation should check the camouflage of the position from different directions and from a height,
+to ensure the effectiveness of the masking. In addition, masking should be constantly
+It is updated in accordance with changes in the environment.
+
+Important! Never openly display an anti-gun gun, whatever it is.
+Whatever the color or shape it was! Always carry a masked cloak and
+Cover yourself and the anti-drone gun! When using drones and bombers,
+The enemy can use the tactics of remote surveillance of the drone-bait.
+Accordingly, if you are jamming a drone bait, another drone observer can
+"Draw" and transmit your coordinates to defeat the available means.
+Therefore, always consider that the enemy sees you and always disguise yourself as if you are not.
+visual observation and observation by means of thermal imaging cameras
+
+5. 1.6. Communications organization
+
+To establish communication with neighboring units, the commander of the calculation or
+Free fighters of the support group establish communication with other units,
+which are located in the area of detection and countermeasures of the UAV, and
+connect to their radio networks - receive radio stations or prescribe their communication channels
+radio stations and exchange radio calls. The main thing here is
+timely mutual information.
+
+Interaction within the calculation takes place through all means that
+It can be used in current conditions - voice communication, gesture or
+light signs, radio communication, mobile communication and the like.
+
+There should never be anything like "Bird in the Sky" on the radio.
+"Kra a 12", "Our copter", "Working", etc. Whatever connection is used, in habit.
+The use of the coding table should be included. The table should be constantly updated.
+It is the responsibility of the crew commander.
+
+Any communication must be given in the light of what can be heard.
+A man whose purpose is to find and kill. Don't make it easy for him. Always remember -
+The enemy is eavesdropping.
+
+5.2. Performing the task
+After moving to a given point, the calculation immediately begins to detect the UAV,
+In parallel, equipping positions and installing equipment. Calculation at any time
+
+
+24.
+must be ready to perform the task of countering the UAV. At this stage
+Continuous monitoring of the airspace in the area
+responsibility of all combatants of calculation, using all available means: drone detectors,
+acoustic, optical, night and thermal imaging means of observation.
+
+
+25.
+5. 2.1. UAV detection
+Depending on the configuration of the equipment and the task, the operator
+UAVs can either conduct periodic frequency monitoring
+UAV, leaving the shelter for this, or constantly working to detect and / or
+UAV escort.
+
+Important! Monitoring space to detect UAVs is necessary
+to carry out not only in the direction of the enemy, but also on all sides, including its rear and
+upper hemisphere. This is due to the enemy’s tactics of attacking from different directions.
+Modern tactics of the use of barraging ammunition also provides
+attack vertically from above to reduce the visibility of the UAV approach.
+
+To identify the UAV work all fighters calculation, using their senses and
+available technical means (radiofrequency, acoustic, optical,
+thermal imaging devices, etc.).
+
+The operator of the UAV detection means coordinates the detection of air targets,
+Identifies and accompanies them, communicates with neighboring units and
+Necessary gives orientation to the operator of counteraction of the UAV.
+
+Given that most UAVs use radio communication with their operator,
+It is easier to detect a UAV by its radio emission than visually or by sound.
+So do not wait for the characteristic buzzing, but immediately start monitoring the drone.
+Detector. In view of the limited number of Maviks and the gradual saturation of our
+units with electronic warfare, the enemy monitors our positions
+From a distance of about one to two kilometers, using the powerful optics of quadcopters.
+Accordingly, you will not see or hear enemy UAVs, but thanks to the drone.
+To the detector, you will be clearly aware of the presence of the UAV in a particular direction.
+
+To detect a UAV using a drone detector, you should first turn on the preset
+"EW", since it contains, in addition to all ranges of the UAV, also ranges of navigation.
+Study the situation in all frequency ranges, in all directions and altitudes, and
+with vertical and horizontal polarization.
+
+After a few seconds of operation of the drone detector, on the spectrogram you can see
+constant (stationary) interference - it can be electronic warfare, base stations
+mobile operators, access points \!1-E1, constantly operating repeaters,
+frequency of self-excitation of equipment and the like. These interferences and frequencies
+are recorded by the operator of the means of detection of UAVs, in order to further their work
+ignore.
+
+To reduce interference that may distract the operator of the funds
+detection of UAVs, it is necessary to minimize the calculation of anti-UAVs in the zone of operation
+use of mobile devices with \1-E! and Vsheyuo like smartphones with distribution
+mobile Internet via \/1-EE1, thermal imagers with \1-Eu, fitness bracelets with Vsheyuo,
+weather stations and things like that. At the same time, stationary access points \ 1-EEE1 will not be
+distract the operator's attention because their signal is constant in power and
+direction. Such access points, a drone detector can "see" for several hundred years.
+Meters, even if they are inside buildings.
+
+32.2.2.
+Same as IYA 8 1 Abbey
+
+1 > Self-excited Suspicious d
+activity similar to 2
+
+t
+
+signal-band
+
+
+26.
+
+Example of stationary interference - GTE-2600 network and self-excitation of equipment
+
+
+27.
+
+$ You need to keep away from the drone detector electronic devices like
+laptops, mobile phones and smartphones - they create great interference in a wide range of
+ro even with switched off radio modules SM, ZS, 44, \1-E1, Vsheyuo®.
+
+It is necessary to limit the use of radio stations near the drone detector.
+Powerful radiation transmitter radio "blinds" receiver drone detector. Prix
+If you turn on the radio, the drone detector will not be able to receive weak signals.
+It'll show no signal. If the operator of UAV detection devices personally
+uses a radio station, for the period of transmission, it is necessary to carry a drone detector
+the outstretched arm, pointing the antenna in the opposite direction from the radio station.
+
+P-N VI = |
+
+bw
+jean
+
+1 avine pile
+GC
+
+In
+
+BOMMEN
+
+Interference from
+
+CN= 5
+
+radio station
+
+outside
+
+? 2:
+Smartphone interference
+
+The appearance of a sharp and characteristic increase in the signal level on the monitoring frequencies
+(splash) and characteristic white/yellow/red bands on the spectrogram falling under
+known pattern, means the appearance of a UAV or the inclusion of EW in the zone of operation of the calculation.
+
+In this case, the operator of the UAV detection means makes a report (report)
+according to the established procedure.
+
+PA Signal appearance
+ERMA video transmission
+
+.
+The appearance of a signal from the UAV The appearance of signals from the UAV
+
+(ERUDRON) in the 2.4 GHz band at 915 MHz (signal)
+management
+
+and at a frequency of 5.725 GHz (video transmission)
+
+$ Important! If a suspicious signal is detected, the operator of the means of detection
+The UAV can deploy to the entire screen a separate frequency range, where the signal appeared, for
+more detailed study of it. But you can not get carried away by observing the signal on one
+frequency range, it is necessary to periodically turn on the preset "Spot UAVs" for control
+over all ranges, in all directions and altitudes, and with vertical and
+horizontal polarization. For example, if a signal from the 2.4 GHz band was seen
+A quadcopter OL, this quadcopter can monitor from a long distance
+ERU drone-kamikaze, which operates at a frequency of 400-1100 MHz and can suddenly
+
+
+fly in from the other side.
+
+28.
+
+
+29.
+
+$ Due to the fact that most modern UAVs work with the radio channel in mode
+PIRCH (pseudo-random adjustment of the operating frequency), on the display of the drone detector spikes from
+UAVs will quickly jump in frequency, and the spectrogram will display characteristic
+Damn it.
+
+Displaying the PPPM signal from the UAV
+
+5.2.1.1. Signal level and distance to the UAV.
+Color matching signal level for all color schemes of the spectrogram:
+
+Absence Very.
+Signal | Weak level | Average level High
+
+rigi
+
+For all color schemes, red or yellow means a high signal level.
+
+To understand the current level of the signal, and, accordingly, to determine approximately
+The distance to the UAV can be guided by the display of the spectrogram. If the level
+The signal from the UAV is very weak, and there are no other powerful signals around.
+Spectrum analyzer automatically increases the gain, while starting to "stretch"
+noise, which on the spectrogram looks like a light background, while the signal from the UAV will be
+weak contrast (pale).
+
+achna
+one
+
+It's 2.1306H2. / E __ Etan' 28 5 2.
+An example of displaying a strong and weak signal from a UAV (quadcopter OL) (left)
+distance of 500 meters, right distance of 4000 meters
+
+$ Important point! The increase in the signal level from the UAV indicates its
+Make a report and take precautions!
+
+
+30.
+
+$ At the maximum detection distances of the UAV, a very important role is played by altitude.
+antennas and/or drone detectors above ground – lifting the antenna from the ground to a height
+Human growth can already dramatically improve the reception of weak signals.
+
+
+31.
+5.2.1.2. Definition of UAV direction.
+
+To quickly determine the direction of the UAV, you need to turn sharply
+A drone detector with a directional antenna left or right 90 degrees and up and down
+compare the intensity (brightness) of the signal on the spectrogram. Highest brightness
+indicates the approximate direction (peleng) of the UAV. Accuracy of definition
+The antenna-triangle direction is approximately 60 degrees. For
+tracking UAVs, it is necessary to periodically turn the drone detector left-right
+within a certain sector and adjust the direction to the maximum
+The intensity (brightness) of the signal on the spectrogram.
+
+Ushiuto 2-4 sig
+
+She is.
+aries
+
+8ben
+
+PLA's behind.
+
+The UAV is behind us.
+
+The UAV is on the side.
+
+Direction to BIL
+
+Direction to
+
+= ILA is on the side
+
+et
+
+You know what?
+Search for direction on the UAV - we observe a change in signal intensity on the spectrogram
+
+In the case of several UAVs in the air, there will be several on the display
+bursts with different amplitudes and bandwidth, depending on the types of UAVs,
+distances and directions to them.
+
+Robb Ivechii, yours! 110.1 uto Ra ng
+With Irina's ET5. BI TOE
+
+loom
+CHEBNE
+
+5.2. 1.3. Additional features for the UAV detection operator.
+
+We draw your attention to the fact that using a drone detector is possible and necessary.
+Also detect the work of electronic warfare, both enemy and friendly. Operation of EW funds
+manifested as an increase in the power of the radio signal in a wide band (bands), in contrast to
+from individual bursts as when detecting a UAV.
+
+$ In addition, a drone detector based on a spectrum analyzer can detect
+operation of many types of radio stations in the corresponding frequency ranges. Analog
+radio stations can be listened to by connecting active headphones or active
+acoustic system to the drone detector and including the corresponding option in the menu.
+
+Properly analyzing the readings of the drone detector, you can determine a lot of useful
+information. For example, if the enemy was a constant interference at a frequency of 1.5 GHz
+(satellite navigation), but all of a sudden this interference disappears for a while - it can
+This means that in this area the enemy will use their UAVs, which need
+
+
+OP5/ Glonass.
+
+32.
+
+
+33.
+5. 2.2. Countering UAVs
+
+If the calculation is tasked with countering enemy UAVs, the operator of the means
+UAV works on the instructions of the UAV detection operator (commander)
+calculation.
+
+All actions with technical means of countering the UAV should
+So that the calculation is ready for the likely response of the enemy in the event of
+directional radiation and attempts to find and destroy personnel and calculation equipment.
+
+To counter the UAV, the operator uses pre-prepared technical
+funds, taking into account all security measures.
+
+It is recommended to use UAV countermeasures only when
+visual contact is established and the operator can monitor the UAV's response to
+jamming.
+
+Of course, if necessary, to silence the drone-adjuster, which was
+detected by a drone detector and located at a great distance,
+try to defuse it to stop the targeted artillery fire from
+side of the enemy.
+
+When a target is detected by the operator of the UAV detection means, it fixes
+direction to the object, clarifies in friendly units belonging to the UAV and
+in case of undetermined accessory, transmits data to the operator of the funds
+UAV countermeasures. The commander of the calculation determines the possibility of defeating the target,
+taking into account the distance to it and other circumstances, and gives a command to the operator of funds
+against the UAV, which begins to work with technical means
+the received direction, taking the angle of lifting the anti-drone gun by 20 degrees from
+horizon at a distance to the target of more than 500 meters and 30-45 degrees at a distance of less than 500
+meters. Given the prompts of the operator of the UAV detection means, the operator
+UAV countermeasures include certain jamming channels - which correspond to
+frequency ranges of the detected UAV. In the absence of accurate information about
+frequency ranges of detected (detected) UAV, counteraction operator
+The UAV includes all jamming channels.
+
+It should be noted that in the case of direct visibility of the UAV (in this case, the
+goes about "wedding drones" OL, Ashschue| and the like, it is possible to determine it
+belonging to "friend or foe" by performing the following jamming algorithm:
+
+1) Enable jamming of control frequencies and do not include jamming of navigation frequencies (1.5 GHz).
+
+2) If there is no constant interference with the navigation frequencies and
+The quadcopter does not have its own muffler CP$, then the quadcopter, when lost
+The control signal must automatically return home.
+
+(3) It is necessary to observe which direction the quadcopter will begin to move:
+The enemy's side is definitely an enemy UAV, if in our direction - it (may be)
+your UAV.
+
+(4) In case of movement of the UAV towards the enemy - immediately turn on jamming frequencies
+
+navigation for the forced stop and landing of the UAV.
+
+During the operation of countermeasures of the UAV, the operator of detection of the UAV, in
+Inability to use a drone detector due to powerful radiation
+("Blinding" receiver drone detector), switches to audio-visual surveillance,
+and, together with other crew members, controls the UAV, which
+is under the influence of means of countering the UAV, and also detects possible
+other UAVs.
+
+In the absence of visual observation of the UAV, which (are)
+under the influence of anti-UAV means, after a minute of continuous operation
+drone gun in the received direction, the gun is turned off, after which the operator
+UAV conducts a new target search using a drone detector, such
+thus adjusting the operation of the UAV countermeasures operator. It's necessary because
+That if you lose control, the UAV can be visibly blown away by the wind, and so can
+Get out of the affected area with UAV countermeasures. It's a minute algorithm.
+
+
+34
+operation of the anti-drone gun - making proofs" is applied before the landing of the UAV,
+Or before the UAV signal disappears.
+Depending on the selected mode of operation of the UAV countermeasures and
+the capabilities of the UAV itself, the operator can force the drone:
+1) Floating, or landing, or flying on an uncontrolled trajectory from
+Demolition by wind (jamming control and navigation signals).
+2) Leave the countermeasures zone (in case of using signal amplifiers on the
+drone and remote control and professional work of the drone operator.
+
+
+35.
+
+$ After working out the means of countering the UAV, the calculation is necessary
+Change position or move to shelter to prevent defeat
+Responding to UAV countermeasures.
+
+$ During the operation of countermeasures UAV (anti-drone gun, dome).
+EW, etc.), the operator of UAV countermeasures must regularly (every minute)
+control the power supply parameters (residue of battery capacity) and the temperature of the devices,
+avoiding critical discharge of the battery and overheating of the housing and electronic circuits. In case
+extreme necessity (completion of the task, attack of the UAV, etc.),
+the operation of means of countering the UAV with a critical discharge of the battery and / or
+critical heating of equipment, but it should be noted that such work can
+lead to a decrease in the life of the equipment or to its further failure.
+The commandant must prioritize the task and
+Preservation of equipment for future tasks.
+
+5.2.2.1. Work of the operator of countermeasures UAV in the infantry
+divisions
+
+Working in the staff of the main unit, the operator of UAV countermeasures
+arranges itself positions 100-200 meters behind the controlled zone and includes its
+equipment using the instructions of observers who are at the forefront of the joint venture and
+report the location of the UAV, its type, the direction of movement of the UAV and the result
+work of means of counteraction of the UAV. Information is transmitted in encrypted form,
+for example:
+
+"First," I'm "Second," take the message, over.
+
+I'm "First", on call, over.
+
+"First," I'm "Second," five blue foxes, I understand, over. I
+
+"First," got you, five blue foxes, over.
+
+(In this example, "blue" is the name of the landmark, "fox" is the type of UAV, "five" -
+direction of movement or lack of movement).
+
+Please note that observers are not required to report what has been discovered.
+UAVs when they're above them - for enemy radio reconnaissance, that would mean receiving
+SP coordinates. The report should be in the case of a UAV over the territory where
+There are no friendly units.
+
+The procedure for the operator of countermeasures UAV with anti-drone gun.
+
+1) Having received a message about the appearance of the UAV (place, direction, height, possibly type)
+UAV, operator of countermeasures UAV takes a position on
+direction to the UAV, given its protection from detection and defeat.
+
+2) The map determines the approximate distance to the Bila and the possibility
+UAV countermeasures at such a distance.
+
+(3) While in hiding, UAV countermeasures operator and other fighters
+visual and auditory observation.
+
+(4) In the event of a decision to use anti-UAV means,
+UAV countermeasures operator includes all anti-aircraft jamming channels
+Drone rifle and together with other fighters trying to see the UAV
+An anti-drone gun is working.
+
+(5) In case of visual detection of the UAV, the operator of countermeasures
+The UAV begins one by one to turn off control jamming channels, monitoring
+UAV reaction. At the same time, the jamming of the navigation channel (range 1.5 GHz) is not
+It's off.
+
+(6) If you turn off a certain jamming channel, the UAV through several
+It moves not in the wind, but according to the commands of its operator.
+This jamming channel must be activated immediately.
+
+7) Operator of UAV countermeasures turns off other jamming channels
+control, if they do not affect the UAV - to save battery power and
+prevent the anti-drone gun from overheating.
+
+(8) If the battery charge is sufficient for long-term retention of the UAV under
+Obstacle, you must continue to jam the UAV until it lands.
+
+
+36.
+performing a safe landing algorithm in the absence of receiving navigation signals
+and control, or because of the discharge of your battery.
+
+If the operator of countermeasures UAV has a drone detector, it
+independently conducts the detection of the UAV. During the operation of the anti-drone gun,
+The drone detector moves to a place that does not fall under anti-drone radiation
+Guns.
+
+
+37
+5.3. Retreat from position
+
+After completing the task, the calculation must quickly and safely leave the position.
+It is important to keep the mask and leave no trace of your presence - for the opportunity
+In the future, use already prepared positions.
+
+When leaving the position, it is necessary to check (recalculate) your equipment and
+Things to leave nothing valuable.
+
+After leaving the position, it is necessary to ensure the safety of calculation and equipment
+transportation to the base or to the next place of work. The calculation should be used
+camouflage activities and plan the route to avoid detection
+enemy.
+
+$ After using technical means of detection and counteraction of the UAV,
+
+immediately carry out the necessary technical check, charging and maintenance of devices,
+to ensure that they are ready for their next use.
+
+
+38.
+6. Annex 1. Procedure for working with a drone detector based on an analyzer
+spectrum "Chpuzza Oga" with firmware version U3.2.0
+6.1. Description
+The drone detector is designed for long-term and early detection of UAVs and
+other objects of radio emission.
+The drone detector consists of the following components:
+® Standard equipment:
+Spectrum analyzer "ace A that with built-in battery".
+The antenna points to the triangle.
+Additional 20 dB HF amplifier (optional 30 dB or 40 dB)
+dB.
+Additional battery mounted in the handle holder.
+Coaxial cable from antenna to RF amplifier (mounted).
+Coaxial cable from the RF amplifier to the spectrum analyzer (mounted).
+Cable ODS-C to power the spectrum analyzer (mounted).
+A stylus on a rubber rope.
+Plastic or metal holder.
+Case for storage and transportation.
+A plug for calibration of the spectrum analyzer.
+Coaxial cable for calibrating the spectrum analyzer.
+Cable ODS-C for charging the drone detector and for
+Spectrum analyzer programming (for experienced professionals).
+The telescopic antenna. It can be used for circular monitoring.
+®* In addition, the following may be supplied:
+o External light and sound alarm unit.
+o Audio cable with TC$3.5 mm connectors for connecting active headphones.
+o Antenna non-directional all-band pin with a magnetic base and
+cable.
+
+ooh.
+
+The antenna is a highly directed "wave channel" ("ua21") with a cable.
+
+Analyzer
+spectrum
+Oga's chubby
+
+Turn off
+
+antenna
+
+Indicator
+
+supplementary
+EE
+
+battery
+Supplementary
+leg
+accumulate
+moat
+handle
+
+indicato
+
+O5B connector - rattle
+
+booster
+
+Drone detector assembled
+(The actual appearance may differ from that shown in the drawings)
+
+A drone detector is a passive receiver that has no
+radiation and, accordingly, can not be detected and sealed by means of RER.
+
+
+39.
+
+Spectrum Analyzer "NpuZA TA" is a device for displaying radio signals in
+within the frequency range of 100 kHz = 6000 MHz. Accordingly, such a device
+can display radio signals from all known UAVs, electronic warfare, radio stations, \1-
+E! devices and things like that.
+
+The maximum range of detection of the UAV by this drone detector depends on
+many conditions (height of the UAV flight, power of the UAV transmitters, antenna height or
+drone detector above the ground, the type of antenna, the presence of an additional RF amplifier,
+the presence of obstacles in the form of terrain, buildings, forest plantations, etc.) and
+constitutes:
+
+* Quadcopter-type UAVs, which are at an altitude of 50-500 meters - from
+1 km to 5 km (using a directional antenna).
+
+UAV aircraft type, which are at an altitude of 1000-5000 meters - from 10
+km up to 30 km (using a directional antenna).
+
+percentage This model of the drone detector does not yet have the ability to automatically
+UAV identification, all analysis of information is carried out by the operator who
+determines characteristic radiofrequency radiation according to previously studied patterns
+signal emission spectra for various UAV models. Detection equipment operator
+The UAV must undergo appropriate training in the use of such a device and
+determining UAV models by their patterns of signal emission spectra.
+
+
+40.
+
+6.2. Rules of use
+When working with a drone detector, the following rules must be observed:
+
+1.
+
+Do not place the antenna near the transmitting antenna and never touch the antenna.
+metal objects in order to avoid damage to electronic
+Static electricity components!
+
+Do not leave the device under direct exposure to sunlight or other
+thermal radiation due to the possibility of damage to plastic parts.
+
+Do not expose the device to rain or moisture. Protect (cover)
+device when used during rain or snowfall.
+
+Avoid getting dust and soot on the surface of the device. In case
+contamination of surfaces, clean the device with a dry and soft cloth or napkin.
+Before use and during operation, periodically monitor the charge.
+batteries - built into the spectrum analyzer and additional in the holder.
+On a fully charged built-in battery, at plus temperature,
+spectrum analyzer can operate from 2 to bh depending on the selected
+brightness of the display. As part of the drone detector, where there is an additional
+battery, the total operating time increases and is accordingly
+6 to 20 hours.
+
+Periodically check the tightening of coaxial cable connectors. Prix
+Do not put too much effort into the wind.
+
+Periodically pay attention to the inscription "+50 Plum" or "+100 SLI aV" in
+upper left corner of the display - if it is red or pink, it is necessary
+Calibrate the spectrum analyzer to improve performance
+devices. For calibration, connect a short coaxial cable going into
+set, connectors of the spectrum analyzer "SAT" and "BE", then go to the menu
+Settings > Calibrate > Calibrate the radio. Wait for success
+end of the procedure. After calibration, the inscription will be white.
+when the automatic display scale or green color is enabled
+manually.
+
+The directional antenna must be oriented in most cases.
+vertically (vertical polarization), but periodically
+Monitoring with horizontally oriented antenna (horizontal)
+
+% & polarization.
+
+Signals with horizontal polarization have EP quadcopters with
+horizontal antenna, if they have telemetry transmission enabled.
+
+Z Ali > Gha'
+
+Horizontal antenna
+
+polarization
+
+Vertical polarization
+antennae
+9. When searching for a signal source, it should be noted that
+
+10.
+
+accuracy of direction with a triangular logoperiodic or
+rectangular horn antenna is approximately 60 degrees, with antenna
+Type "wave channel" - about 10-20 degrees.
+
+To work from closed positions, you can connect a remote to the drone detector
+A pin antenna (for example, a car antenna).
+
+
+41.
+11. The non-directional pin antenna should be directed vertically upwards.
+12. The detection range of the UAV increases when lifting the antenna and / or drone.
+The detector is above the ground (if possible).
+
+
+42.
+6.3. Setting up
+Before using a drone detector, you must first correctly
+adjust the spectrum analyzer according to the recommended basic settings,
+which are shown in the table. Given your experience and preferences, you can
+
+other settings at your discretion and at your responsibility.
+
+Setting value Location in the menu Note
+Brightness 100% Main menu > Screen Set maximum brightness
+100% display (also see section 6.14)
+Automatic | Disabled | Main menu > Screen Disable automatic reduction
+dimming the brightness of the display (also see the section)
+6.14.)
+Frequency markers 3 Set the number of markers
+signal-maximum
+Spectrogram | Size: Setup Enable spectrogram, select size
+Large "big" and select the palette:
+Palette: "Tibo" - to display all signals
+Chafeglo <or>
+"Peeglo" - to emphasize the powerful
+signal
+Sound signal [24 Settings Enable sound signal (also see)
+section 6.14.
+Select the required level
+Volume. Choose a comfortable
+Beeper frequency (default 1760)
+Hz?
+Frequency Grid [22 Setting Enable grid display and value
+frequency
+Settings Include range names
+range
+Anxiety level 40.0 dB Set a threshold level of anxiety
+- horizontal blue line (also
+See section 6.14.
+Scale Auto Setting Set automatic display scale
+chart
+Built-in MBI UYO Setting>Enable the built-in RF amplifier - for
+complete with additional HF-
+20 dB amplifier (see also Section 6.5).
+<or>
+Turn off the built-in HF amplifier - for
+complete with additional HF-
+40dB amplifier
+External 20.0 dB Setting > More Indicate External Amplification
+MBI HF amplifier (depending on the model)
+Calibrate at Settings>More>Calibrate Start calibration of the radio track
+radio
+Calibrate the screen At Settings > More > Calibrate Calibrate the touch screen
+Hour g-xx-ss Settings>More> Set a date | Set the right time
+and time (hours-minutes-seconds)
+Date r-mm-dd | Settings>More>Set date | Set correct date (year-month-old)
+and time of day
+Extinction time is 10 seconds. Settings>More>Internal Peak Decline Rate (red line)
+setup
+Reaction time is 5 seconds. Interior speed of adaptation to the environment
+[noise level settings]
+Time is 10 seconds. Settings>More>Internal Scale Adjustment Speed
+display reaction
+scale
+Display Settings > More > Internal Disable Value Display
+noise threshold
+Display Equally | Settings>Enter>Enterprise Display of the Same Size
+setting ranges>Range ranges
+ranges
+
+
+
+43.
+
+Deployment
+
+Settings > More > Internal
+settings>Configuration
+range
+
+Enable the scaling function
+
+
+
+44.
+
+6.4. Technical specifications
+
+quadcopter-foot
+type that
+high
+50-500 meters
+
+GO-TO model 1- Basic model
+OO-TO15- with built-in beeper
+OO-TO1M with metal parts of the holder
+OO-TGO15M - with built-in beeper and metal parts
+holder
+Maximum 1 to 5 kilometers (using a directional antenna)
+range
+UAV detection
+
+maximum
+range
+UAV detection
+aircraft type,
+on
+height 1000-5,000
+
+10 to 30 kilometers (using a directional antenna)
+
+RF booster
+
+metre
+
+Accuracy * Non-directional pin antenna: impossible to determine
+
+direction
+
+Directed logoperiodic antenna: approximately 60 degrees
+
+Strictly directed antenna "wave channel": approximately 10-20
+degree
+
+Frequency 100 kHz = 6000 MHz
+
+range
+
+analyzer
+
+spectrum
+
+Frequency range 100 kHz = 800 MHz (sinus), 100 kHz = 4400 MHz (meander)
+
+generator
+
+HF amplifier in the frequency range: 100 kHz - 4000 MHz
+
+Analyzer Enhancement: decreases from 20 dB per 100 kHz to 6 dB per 4000 MHz
+
+spectrum
+
+Additional Frequency Range: 10 MHz – 6000 MHz
+
+Amplification: Can be 20 or 30 or 40 dB (also see section 6.3.)
+Maximum input level: 33 dBm @ 1 GHz (2 W)
+
+Display diagonal
+
+10 cm/3.95", 480x320 pixels
+
+Working hours
+battery
+
+8 hours (on the built-in spectrum analyzer battery)
+16 - 20 hours (with additional battery)
+
+Nutrition
+
+* Built-in spectrum analyzer battery Gl-Ro! tag 3000
+mic
+* Additional battery GL-[op >6000 mAh]
+
+Current consumption
+(analyzer + amplifier)
+
+* 495 mA from Ch5V-C (display brightness 100%)
+* 395 mA from Ch5V-C (display brightness 6%)
+
+Charger
+
+5 B (03B-C)
+
+Light indication
+
+* Power from an additional battery
+* Additional battery charge
+Charging the spectrum analyzer
+
+Sound indication
+
+Built-in beeper: the buzzer when a strong signal appears,
+exceeding the predetermined threshold level (models OO-TO1$,
+rr-T91$M
+
+Connectors
+
+* Antenna - ZMA Yetai
+» Calibration - ZMA Yestay
+
+Audio output
+
+Analog, linear, 3.5 mm TEZ (for active connection)
+headphones or active acoustic system
+
+
+
+45.
+
+Complementary map
+memory
+
+M!go$r 32 GB
+
+Holder material
+
+Plastic RGA or PET / PETS (models OO-TO1, OO-TU1$)
+Plastic + metal (models OO-TU1M, OO-T91$M)
+
+Operating temperature
+
+-10°C = +40°C
+
+Working humidity 585%
+Colour of body Black/camouflage
+Overall dimensions | 320x140x260 mm
+
+weight
+
+640 = 800g - plastic holder (depending on material)
+975 g - plastic holder with metal parts
+
+
+
+46
+
+6.5. Remarks on the 5.8 GHz range
+
+The Oga Bubble spectrum analyzer has a low sensitivity in the 5.8 GHz range.
+The search for signals in this range is possible only in the presence of high-quality external
+HF amplifier, which, in turn, still does not guarantee long-range detection of the UAV.
+
+When scanning the 5.8 GHz range, we recommend temporarily disabling the built-in
+HF amplifier - menu item "Settings > More > Built-in USH", this will save you from
+additional interference that the built-in RF amplifier makes in this range.
+
+6.6. Controls of the Oga Bubble spectrum analyzer
+
+Kolshatko
+(Wiclick that's got MEMU,
+
+The button activates the function
+Tea
+
+No.
+
+Anteny chicks
+That's $3.5.
+
+Bper Toure C (visible beep)
+c _(20-tu1$) (charging / in plain sight! signals)
+Oneniyeiran refashioning) of a given rage
+
+(responding to force onslaught)
+Controls of the spectrum analyzer CPUZA Oga
+Note that the touch screen responds to clicks, not to
+
+touch. Accordingly, you need to press the screen with a stylus, nail, finger or
+another light object.
+
+
+47.
+6.7. Power on, power control and recharging
+Drone detector has dual power - built-in spectrum analyzer battery
+and an additional battery in the handle holder. Additional battery
+used to power an additional HF amplifier and to extend the operating time
+spectrum analyzer.
+
+6.7.1. Inclusion
+
+First, turn on the power from the additional battery keyboard
+switch - the red indicator will light up to the left of the switch. If the indicator is not
+ignited - turn off and switch on again to restart the controller
+extra battery. After switching on power from an additional
+In the battery, turn on the spectrum analyzer switch on its upper panel.
+
+Occasionally there is a locking of the controller of the additional battery, which
+It is impossible to turn it on with a key switch, even if you
+We are sure that the additional battery is charged. In that case, connect the charger.
+device to the socket ODS-C on the front side of the handle for restarting the controller
+extra battery.
+
+6.7.2. Nutrition control
+
+= Note that the additional battery feeds the spectrum analyzer, that is, when
+powered by an additional battery, spectrum analyzer continuously
+It is recharged and does not work on its built-in battery, namely on
+extra battery. Accordingly, the additional battery will be discharged.
+The first, while the battery built into the spectrum analyzer, most likely, will still be
+have a high level of charge.
+
+On the right side of the handle there is a hole to control the charge of the additional
+The battery consists of four blue lights. While working,
+The indicators will decrease from left to right. Each indicator is 25% charge. When
+additional battery is switched on by key switch, blue indicators
+glow constantly, and after switching off, they glow for about 10-30 seconds.
+Check the charge indicator periodically.
+
+If there is only one blue light, you need to charge an additional one.
+Drone detector battery.
+
+If the last blue indicator flashes, it means that the charge is additional.
+There's almost no battery left.
+
+If there is no blue indicator and no red indicator
+The drone detector battery is dead. At the same time, the additional HF-
+the amplifier, and the spectrum analyzer runs on its built-in battery. It's normal.
+condition with prolonged operation of the drone detector without the possibility of charging it. Like that.
+In this case, you can use the spectrum analyzer only on its built-in
+battery. To do this, switch the antenna cable from the input of the additional amplifier.
+To the lower socket of the spectrum analyzer. All functions of the drone detector will work, but
+absence of an additional HF amplifier, sensitivity and, accordingly, range
+UAV detection will be slightly smaller in the ranges of 600-900 MHz and 2.4 GHz and
+significantly less in the 5.2 GHz and 5.8 GHz bands.
+
+If you use an additional 40 dB HF amplifier,
+The built-in amplifier (USP) must be turned off in the settings. Accordingly, with
+direct connection of the antenna to the spectrum analyzer, it will be necessary to turn on
+Built-in USS in the spectrum analyzer settings menu (see section 6.3.). After
+Recharge the additional battery and restore the normal
+connect cables, do not forget to turn off the built-in USH again in the settings menu
+spectrum analyzer.
+
+Control the charge of the built-in battery of the spectrum analyzer by the pictogram in
+The bottom left corner of the display.
+
+
+
+48.
+
+OLD
+
+Charge pictogram of the spectrum analyzer battery
+
+
+1. First.
+disconnect this one
+
+2. Disconnect this connector
+and attach to
+analyzer
+spectrum
+Connect the antenna directly to the spectrum analyzer
+
+$ As carefully as possible, connect and disconnect the connectors to the drone detector!
+Antenna connectors are not designed for the application of great effort and require even and
+a smooth twist.
+
+6.7.3. Charging.
+
+To charge the drone detector, connect the charger with a voltage of 5 V to
+C$V-S socket on the front of the handle, with blue indicators
+The additional battery will flash from right to left. After full charge, all
+The four indicators will be constantly glowing.
+
+While charging an additional battery, be sure to turn on the power of the drone.
+detector with a key switch in order to also charge the built-in
+spectrum analyzer battery. Charging this battery is accompanied by a glow
+a red indicator on the top panel of the spectrum analyzer. After full charge, this
+The indicator will go out.
+
+After charging the additional battery and built-in battery
+spectrum analyzer, turn off the drone detector power key switch. Also.
+Always turn off this key switch when the drone detector is not in use.
+Since even if the spectrum analyzer is turned off, the charge of the additional battery
+It is spent on feeding an additional HF booster.
+
+
+
+50.
+6.8. Choice of mode of operation
+
+After switching on the spectrum analyzer, you can select the desired frequency range
+to search for certain types of UAVs, according to the task.
+
+Special firmware spectrum analyzer has the so-called "presets" -
+Pre-tuned frequency ranges with clear names for easy detection
+radio signals from various devices (UAVs, radio stations, mobile phones, \/1-E1)
+devices, electronic warfare, networks of mobile operators ©6 $M/3C/4C, etc.). Presets can.
+include a set of multiple frequency bands, or a single frequency band.
+The user can create several presets with one frequency range, and
+It can also create multiple proprietary presets with a set of frequency bands.
+
+If a preset with a set of ranges was selected - pressing at the top of the display on
+one of the ranges will deploy it to the entire width of the screen, re-pressing will return to many different
+range mapping.
+
+To detect a UAV using a drone detector, you should first turn on the preset
+"Different UAVs" and study the situation in all frequency ranges of possible operation
+UAVs in all directions and altitudes, as well as vertical and horizontal
+polarization.
+
+After a few seconds of operation of the drone detector, on the spectrogram you can see
+constant (stationary) interference – these may be signals from mobile base stations
+operators, access points \1-E1, constantly working repeaters, self-excitation
+equipment and things like that. These disturbances and frequencies are recorded by the operator.
+detection of UAVs in order to ignore them in further work.
+
+To quickly determine the direction of the UAV, you need to sharply turn the drone.
+detector with a directional antenna left or right 90 degrees and up and down - operator
+finds the sector with the highest signal level, this is the approximate direction (peleng)
+UAV. The accuracy of determining the direction with such a drone detector is
+about 60 degrees. If there is time and opportunity, you can specify the direction of
+The UAV slowly rotates the drone detector within a specific sector and observes the
+slight changes in signal intensity on the spectrogram.
+
+
+
+51.
+
+6.9. Display elements
+Below are the main display elements on the display.
+
+Scale Markers Name Grid Scale Level Scale
+maximum frequency ranges of the level of
+decibel
+
+Pictogram Date Marker Initial Power Line Spectrogram
+Charge and frequency signal spectrum ma
+battery time of signal range line (red) ("waterfall")
+
+a time (yellow)
+
+Designation of the main display elements on the display (firmware version U3.0.0.0)
+
+Gray scaling zone Black scaling zone - Coefficient
+'scaling'
+
+MN.
+
+CENTER = Snake
+Designation of zoom zones on the display (firmware version from U3.1.0)
+
+
+52.
+In addition to the display elements indicated in the figures, on the display in the left part
+It also displays:
+® "Signal 40 AV" in green - sound alarm is turned on (40 AV - threshold).
+® "Signal off" in pink - the sound alarm is turned off.
+® "Scan:SH XXX" scanning speed of the current preset.
+® "USP" in green - the built-in HF amplifier is included.
+® "Pods: 20 AV" in green - the level of gain of external RF amplifier.
+® "ZO" in green - a map of pl1sgo$ is inserted (the screenshots do not show).
+
+6.10. Scaling function
+
+Starting with the firmware version U3.1.0, a function appeared in the spectrum analyzer
+scaling, which "stretches" a certain portion of the spectrum and spectrogram, and
+allows you to consider in detail the necessary signal for its study and identification.
+
+Depending on the bandwidth of the selected range (preset), the maximum
+The scale factor can be different. The scaling factor can
+have values of x5, x20, x100, x500, x2000, x10000. Scaling factor
+is displayed in the upper right corner of the display in yellow for firmware version U3.1. 0,
+or in the upper left corner of the display in green for firmware version U3.2. 0.
+
+You can freely combine manual and automatic scaling.
+
+6.10.1. Method 1 - Manual scaling
+
+To increase the scaling of the area of interest to you with a signal, touch
+a stylus on the surge of the signal within the gray zone of the display. To reduce
+zoom, tap the stylus above the signal burst within the black zone
+display.
+
+We recommend first to expand the desired range to the entire width of the screen by clicking on
+range at the top of the display - this will allow you to more accurately hit the stylus on the splash
+signal.
+
+To quickly exit the zoom mode, select any preset in the menu.
+
+After switching off and powering on the spectrum analyzer, selected
+There's no scaling.
+
+mer
+
+hand-scaling
+
+Direct frequency 915 MHz
+
+In this example, first deploy the desired range to the entire width of the screen,
+Then we zoom in on the burst. The signal we're seeing is a PIRCH signal.
+drone control, EGW$ standard, central frequency 915 MHz, band approximately 26
+
+MHz (from 902 MHz to 928 MHz). To the right of this signal is the base station operating lane
+O5M.
+
+
+
+53.
+Example of manual scaling of a signal with a central frequency of 866 MHz
+
+
+Example of manual signal scaling in the 5.8 GHz band
+
+6.10.2. Method 2 – Automatically scaling the strongest signal
+
+At any time, open the main menu, and in the screen settings click on the line "+"
+zoom in to zoom in for the strongest signal. Strongest signal ever.
+Selected from all ranges displayed on the display. The strongest signal will be
+in the middle of the display.
+
+You can zoom in or out several times through the menu.
+
+nasti + in MASOTB
+
+COEO + Zilsiti No.
+
+[she]
+|oviemigi
+
+"Scale" in screen settings
+
+700-960
+
+C 1: |=.
+U3.2.0 versions.
+
+CENTER,
+Koe display
+
+1.5.
+scaling for the past
+
+ffizio
+
+
+55.
+6.11. Frequency search
+During normal operation (when the menu is not displayed), pressing the wheel to the left or
+to the right, it is possible to move marker No. 1 along the spectrum and find out the exact frequency of a certain
+splash. You can briefly press the wheel to move the marker to a small
+distance, or you can pinch the wheel so that the marker moves quickly across the spectrum. During
+movement of the marker, the display of the spectrum freezes, and is restored automatically
+One second after the wheel is released.
+
+Please note that if you have switched off the markers in your settings, then short
+pressing the wheel to the right will select the display of individual frequency ranges in
+Preset with a set of several frequency ranges (left-right), and a short press
+the wheel to the left will return the display of all frequency ranges of the current preset.
+
+6.12. Screen menu
+To open the menu, press the spectrogram or the wheel.
+
+® BPAI RESIGN
+OPIERA
+
+Oran Zal's Lancet
+
+W.L. BLAY
+
+SHOWS +
+
+| SHOWS +
+
+| SHOWS +
+
+| SHOWS +
+
+MORE +
+
+| FUCKING +
+
+Main menu
+
+To navigate the menu, use a stylus by touching the desired menu items, or
+Wheel - reject it to the right and left to move the allocation of the menu item
+respectively down and up and press the wheel to select the allocated item.
+
+The selected preset is indicated by a pictogram with a black circle.
+
+To navigate through the menu pages, use the links "NOTHER -" and "P< BACK".
+
+Menu items with the arrow "P-" lead to the submenu.
+
+To close the menu, click on the display outside the menu or reject the wheel.
+Left until the menu disappears. Starting with firmware 3.1.0, the menu closes automatically.
+15 seconds if you do not perform any actions on the menu. After closing the menu, part
+The spectrogram will be absent from the place where the menu was displayed - this is normal.
+phenomenon.
+
+
+56
+
+6.13. The work of a drone detector with a remote antenna
+
+In the event of a threat to life and the impossibility of continuous monitoring
+directional antenna, the operator of the means of detection of the UAV can, while in shelter
+or in a vehicle, connect a remote pin antenna to the drone detector and
+set it outside. For this, an all-band car pin is used.
+antenna with a cable and magnetic base. The antenna must be connected to the entrance of the external HF-
+amplifier. It is desirable to install such an antenna on a flat metal base -
+for this, the roof of the car, metal zinc from cartridges, metal
+A box (box) of ammunition, or any flat metal (iron) object.
+The antenna must be mounted vertically and in the center of the metal base, but
+The most important thing is to be as high as possible (as long as the cable is sufficient). We could just wind up the antenna.
+Scotch to a stick stuck in the ground. Thus, it is possible to organize a safe
+stationary round-the-clock monitoring point. When connecting a drone detector to
+power supply or overbank, the time of its operation can be unlimited. For convenience.
+detection of signals from the UAV, in the drone detector you can turn on sound and light
+alarm.
+
+Connecting a remote antenna to a drone detector
+
+At the most gently connect and disconnect the connectors to the drone detector!
+Antenna connectors are not designed for the application of great effort and require even and
+a smooth twist.
+
+Please note that non-directional all-band pin antennas
+They have less sensitivity than directional antennas, so you need to take into account
+that the detection distance of UAVs with such antennas is significantly reduced - for example,
+OL quadcopters can be detected only from a distance of 1000-1500 meters, while with
+With a directional antenna, this distance is up to 5000 meters. We recommend replacing
+complete cable to the BS223 cable of the desired length.
+
+a Antenna without metal
+a Metal antenna
+
+Antenna on the roof
+
+
+
+57
+The work of a drone detector with a remote antenna
+
+
+58.
+
+6.14. Sound and light alarms
+
+Spectrum analyzer has the function of sound and light signaling
+A strong signal that exceeds a given threshold. Besides, on display.
+the name of the range in which a signal exceeding a threshold has appeared,
+It turns pink. If the signal does not exceed the threshold level, the name
+The range is displayed in blue.
+
+The value of the threshold level (blue horizontal line on the display) is set in
+depending on the operating conditions - the menu item "Setting up>Alarm level".
+
+You can independently turn on and off sound and light alarms.
+
+6.14.1. Sound alarm system
+
+Sound alarm is activated when signals exceeding the specified
+threshold level. Use built-in beeper (models RO-TO1$, OO-TO1$M) or
+connect an external alarm unit or an active acoustic system, or
+active headphones to the socket audio output 3.5 mm - if the signal exceeds the specified
+The threshold level will sound like a buzzer. To operate the function of sound alerts,
+Turn on the "Sound signal" option in the settings and select the desired level
+Loudness and comfortable tone (frequency) of the buzzer.
+
+$ The tone of the buzzer will automatically step up if the signal level
+It has reached the threshold and continues to grow.
+
+Connecting active headphones
+
+Powerbank
+block
+
+Nutrition
+acoustic drone-
+oy
+
+system
+
+
+59.
+Connection of an active acoustic system powered by ODS
+
+
+60.
+6.14.2. Light alarms
+
+Light alarm works by automatically increasing the brightness of the display
+Signals that exceed the threshold level.
+
+To enable this function, perform the following settings:
+
+1. Select in the settings "Screen" the desired brightness of the display, a large "2%".
+
+Usually set the following brightness values of the display:
+® In the afternoon, 100%.
+® At dusk, 25%.
+® 6% at night.
+
+2. Enable in the settings "Screen" function "Automatic dimming"
+(automatically reduce the brightness of the display) and specify the time interval in
+After which, the brightness of the display will be minimal.
+"2%."
+
+In the absence of signals exceeding a given threshold, brightness
+The display will be minimal (2%). When signals appear that exceed the specified
+threshold level, the brightness of the display will automatically increase to a given value,
+This makes it clear that there is a strong signal. After the strong signal disappeared,
+After a given time interval, the brightness of the display will again become minimal (2%).
+
+The higher the brightness of the display was set in the settings - the more noticeable the effect will be.
+light alarm.
+
+Meat +
+
+ROUND
+
+Setting up
+That's the _____.
+10 SEC - darkening
+2%
+OBE
+Setting up
+display brightness
+
+Snives.
+
+Menu "Screen" - setting up a light alarm
+
+To turn off the light alarm, select "Off" for the setting
+"Automatic blackout."
+
+Meat +
+
+ROUND
+Turn it off.
+luminous
+
+BUT NOT DIGNED = alarms
+2%
+5 per cent
+©1412
+25%
+4w
+79
+100%
+nazal
+
+Screen menu - switching off light alarms
+
+
+61 61
+6.14.3. Configure exceptions for alarm ("special" ranges)
+
+Starting with the firmware version U3.2.0, a new function appeared in the spectrum analyzer.
+definitions of "special" ranges in which the alarm is switched off or specified
+Another threshold level of alarm.
+
+Disabling the alarm or coarsening (increasing) its threshold in certain
+ranges will allow to exclude from the alarm standard powerful sources
+radio signals, for example, signals from base stations of cellular operators that
+In the past, there have been occasional unnecessary alarms.
+
+In addition, it is possible to make certain ranges with greater
+Sensitivity (lower threshold level of signaling), for example,
+dangerous bands, where any signal will indicate the appearance of a UAV.
+
+To turn off the alarm in the "special" range, set the value "0"
+(zero) for the "Alarm level" parameter. To set your threshold level
+
+set the value for the parameter "Alarm level" in decibels from "1" to
+"127."
+
+%&Ranges designated as "special" are displayed as
+Stripes filled with gray dots. If the alarm is switched off for this range,
+There will be no blue threshold line on the display within this range.
+alarms. If you have set a threshold other than the general one, within
+In this range, the blue line of the threshold level will be displayed at a given mark in
+Decibels.
+
+The table contains a list of frequency bands of base stations (BS) of mobile operators.
+Ukraine, for which you can turn off the alarm. On the spectrogram you will be
+see the frequency bands of the BS transmitters - since the transmitters have a high
+power and work constantly, and in the receiver bands of the BS will be weak irregular
+signals from mobile terminals.
+
+Check the table, find the frequency bands that are used in your region.
+Add them to the list of "special" ranges.
+
+Operator Receiver BS, | Transmitter Receiver Transmitter Receiver BS | Transmitter Type
+. MHz BS MHz BS MHz BS MHz MHz BS MHz [networks]
+standard PJSC "Kyivstar" LLC "Lifesell" PJSC "VF Ukraine"
+
+05-900 8844-8862 | 9294-9312 | 8952-8998 | 9402-9448 9002-9068 | 9452-9518 | 29
+888.6 -889.8 | 933.6-934.8 | 907.2-907.6 | 952.2 - 952.6
+890.0 - 894.8 | 935.0 - 939.8
+908.0 - 910.2 | 953.0 -955.2
+25-1800 | 17252 - 1749.8 | 1820.2 - 1844.8 | 1710.2 - 1724.8 | 1805.2 - 1819.8 | 1750.2 - 1769.8 | 1845.2 - 1864.8 | 26
+1770.2 - 1779.8 | 1865.2 - 1874.8 1780.2 - 1784.8 | 1875.2 - 1879.8
+TLE-900 890.0-895.0 | 9350-9400 | 8950-900.0 | 9400-9450 | 9000-9050 | 9450-9500 | 49
+GTE-1800 | 1730.0 - 1750.0 | 1825.0 - 1845.0 | 1710.0 - 1725.0 | 1805.0 - 1820.0 | 1750.0 - 1770.0 | 1845.0 - 1865.0 | 46
+GTE-T8OOTN | 1725.2 - 1749.8 | 1820.2 - 1844.8 | 1710.2 - 717.6 | 1805.2 - 1812.6 | 1750.2 - 1769.8 | 1845.2 - 1864.8 | 4b
+1770.2 - 1779.8 | 1865.2 - 1874.8 | 1710.0 - 1725.0 | 1805.0 - 1820.0 | 1780.2 - 1784.8 | 1875.2 - 1879.8
+
+1730.0 - 1750.0 | 1825.0 - 1845.0 1750.0 - 1770.0 | 1845.0 - 1865.0
+GTE-2600 | 2520.0 - 2535.0 | 2640.0 - 2655.0 | 2535.0 - 2545.0 | 2655.0 - 2665.0 | 2510.0 - 2520.0 | 2630.0 - 2640.0 | 4b
+|OMT$-NOMA 1967,4 2157.4 1922.8 2112.8 19524 2142.4
+1972.4 2162.4 1927.6 2117.6 1957.4 2147.4
+19772 21672 1932.4 2122.4 1962.4 2152.4
+
+percent In the firmware U3.2.0 has already added several "special" ranges
+frequency bands of base stations, which are most common in the territory
+Ukraine:
+
+1. 925.0 - 960.0 MHz
+
+2. 1805.0 - 1880.0 MHz
+
+3. 2110.0 - 2170.0 MHz
+
+4. 2620.0 - 2690.0 MHz
+
+
+62.
+7. Annex 2. Examples of patterns of radiation spectrum signals of some UAVs
+
+Horizontal
+polarization
+shadows (signal:
+
+weak:
+vertical
+polarization
+
+TA! 6 .51.0MNg/TOP, g t .1906N2 _-51.0MNg/ZTOR,
+Ale quadcopters! Euo 2/Ge+ (the signal bandwidth is wider than that of OL, but with poor communication with
+By remote control, the quadcopter reduces the bandwidth for more stable communication.
+
+
+63.
+
+#50 VET 2.
+#0 2.
+
+=
+
+Ashe's quadcopter! YEU 2 RGO UZ UGRIZE
+
+
+
+
+
+
+66.
+
+
+p
+Aya R, MAI, Ai Alan
+
+2. 200
+
+Unknown aircraft-type UAV, distance 1-3 km
+
+And
+
+86915 MH2
+
+304, O5MN ARINE 5.02 920.240MN:
+Zbobbine m Bznine
+
+334.0
+sheep
+
+MN.
+
+Signal base station O5M-
+
+Unidentified signals,
+900 on the right base station 95M-900
+
+Transmission signal |
+
+ERU quadcopter |
+Control and telemetry: UGW$ PPW with a central frequency of 915 MHz and a band of approximately 26 MHz
+Video transmission: analog video in the 5.8 GHz band (in this example 5.725 GHz)
+
+
+BLAE
+24 ve 69.24.
+
+.bomne 1-combined. 1z9bng,
+
+Several EPU quadcopters
+Control and telemetry: PPRF at 868 MHz and 915 MHz
+Video transmission: analog video in the 5.8 GHz band
+
+In
+RA 116-88
+
+Several EPU quadcopters
+At least six video bands can be seen in the 5.8 GHz band
+
+
+69
+8. Annex 3. Examples of EW signal emission spectra
+
+sochi
+
+MAT
+RAMT
+
+Visa tagon:
+NA
+
+1.2056H=. en V t Zori E
+1.188682 1.218642 and no:
+Shih | - ANI |
+
+1st
+
+VISUSTEGON $65 ($11:5)
+University-NR-N:2-N-N- $4$:12 1.2
+
+1.2.
+Deva
+
+1.16Z6H2 12.7MNE/
+
+| da sng
+
+| 2.547n 2.55058
+and [webne van 5]
+
+
+
+EW signal in the 5.2 GHz range
+
+2T 5.7338 5CN 4.94Vm
+
+t
+
+GRU 5.8
+AI
+
+d
+
+C. EW in the 5.8 GHz range
+
+
+
+Nah:
+
+b
+
+Goiter: ETHOR 5.CWBNE EET 2.5506H2
+
+TOP 1.
+
+An example of testing a six-channel anti-drone gun
+

@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+requests
+python-docx
+python-pptx
+PyPDF2
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+langchain-groq
+faiss-cpu
+docx2txt
+unstructured
+openai  # If used in LangChain
+tiktoken  # Often needed for token handling in LangChain
